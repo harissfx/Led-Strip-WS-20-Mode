@@ -296,4 +296,3 @@ Mode 13: Police Strobe    Mode 8: Meteor Rain      Mode 6: Sparkle
 ---
 
 **Happy Coding! 🚀**
-```
