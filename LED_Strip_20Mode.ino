@@ -1,8 +1,8 @@
 #include <Adafruit_NeoPixel.h>
 
 // Konfigurasi LED Strip
-#define LED_PIN     6       //pin data led
-#define LED_COUNT   11
+#define LED_PIN     6       // pin data led
+#define LED_COUNT   11      // jumlah led sesuaikan kebutuhan
 #define BRIGHTNESS  100
 #define BUTTON_PIN  2      // pin untuk tombol ganti mode (opsional)
 
